@@ -64,7 +64,6 @@ All data attributes below respects this constraint: Data from their first trip i
 5. API - Flask (I chose Flask because I will use python and its also easy to develop APIs in Flask, hence, easier to maintain)
 6. Dashboard - Redash (I choose Redash since it supports various data sources to create dashboards, ie. Hive. And also, I don't need complex visualizations, like in D3.js)
 7. Logging & Monitoring - Prometheus and Grafana
-Later in course, I will try to map my use case into cloud technologies.
    
 <!-- MARKDOWN LINKS & IMAGES -->
 [architecture-screenshot]: docs/images/architecture.png
